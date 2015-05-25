@@ -3,7 +3,6 @@ public class tree {
 	public tree (){
 		root = null;
 	}
-}
 private int maxHeAUX(Node node){
 	int max= 0;
 	if(node != null)
